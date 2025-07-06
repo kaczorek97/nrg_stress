@@ -1,6 +1,8 @@
 # nrg_stress
 😵‍💫 **Dynamic Stress System for RP**
 
+🌐 [Visit NrgScripts.com](https://nrgscripts.com)
+
 Add a whole new layer of immersion to your RP server with a fully customizable stress system! Players' actions trigger real psychological effects that influence their movement, aim, and overall gameplay, making stress management a vital part of roleplay.
 
 🧠 **Stress Levels and Effects**  
